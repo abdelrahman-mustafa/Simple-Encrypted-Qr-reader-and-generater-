@@ -1,0 +1,7 @@
+.vscode/
+opencv_contrib.zip
+opencv.zip
+opencv/
+opencv_contrib/
+__pycache__/
+get-pip.py
